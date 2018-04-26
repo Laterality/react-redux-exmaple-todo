@@ -1,0 +1,12 @@
+{
+  "name": "todo-example-only-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node build/store/index.js"
+  },
+  "devDependencies": {}
+}
