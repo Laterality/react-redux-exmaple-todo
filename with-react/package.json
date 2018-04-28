@@ -1,0 +1,24 @@
+{
+  "name": "todo-example-only-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node build/store/index.js"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.1",
+    "@types/react": "^16.3.12",
+    "@types/react-dom": "^16.0.5",
+    "@types/react-redux": "^5.0.18",
+    "awesome-typescript-loader": "^5.0.0",
+    "jquery": "^3.3.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.8.3",
+    "webpack": "^4.6.0"
+  }
+}
